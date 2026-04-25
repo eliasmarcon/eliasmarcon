@@ -23,31 +23,19 @@
 
 <!-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 <h2>🛠️ Favorite Tools and Programming Languages</h2>
-<p align="center">
-    <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" alt="python" width="52" height="52"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://cplusplus.com/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="52" height="52"/></a>&nbsp;&nbsp;&nbsp;&nbsp; 
-    <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" alt="Pytorch" height="52" width="52"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" alt="Tensorflow" height="52" width="52"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://keras.io/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" alt="Keras" height="52" width="52"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="52" height="52"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" alt="Sklearn" height="52" width="52"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/62487087dc4f4f5efee637addbc67a16dd374bf6/text%20editors/vscode.svg" alt="VsCode" height="52" width="52" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" height="52" width="52"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://github.com/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" alt="Github" height="52" width="52"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original-wordmark.svg" alt="Gitlab" height="52" width="52"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
-
+<div align="center" style="white-space: nowrap;">
+  <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" alt="python"/></a>&nbsp;
+  <a href="https://cplusplus.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="45" alt="c++"/></a>&nbsp;
+  <a href="https://pytorch.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="45" alt="pytorch"/></a>&nbsp;
+  <a href="https://www.tensorflow.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="45" alt="tensorflow"/></a>&nbsp;
+  <a href="https://keras.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" width="45" alt="keras"/></a>&nbsp;
+  <a href="https://www.postgresql.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="45" alt="postgres"/></a>&nbsp;
+  <a href="https://scikit-learn.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="45" alt="sklearn"/></a>&nbsp;
+  <a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/62487087dc4f4f5efee637addbc67a16dd374bf6/text%20editors/vscode.svg" width="45" alt="vscode"/></a>&nbsp;
+  <a href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" alt="git"/></a>&nbsp;
+  <a href="https://github.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="45" alt="github"/></a>&nbsp;
+  <a href="https://about.gitlab.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" width="45" alt="gitlab"/></a>
+</div>
 <br>
 
 <!-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
